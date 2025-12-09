@@ -1,0 +1,1 @@
+Testando as mudanças de um arquivo pelo GitHub para usar a funcionalidade $git pull 
