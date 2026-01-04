@@ -1,2 +1,3 @@
 Curso Hora De Codar - Git & GitHub
-Testando Repositórios
+Testando Repositórios 
+04/01/26 testando git log no projeto

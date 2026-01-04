@@ -1,1 +1,2 @@
 Testando as mudanças de um arquivo pelo GitHub para usar a funcionalidade $git pull 
+04/01/26 testando git log no projeto
